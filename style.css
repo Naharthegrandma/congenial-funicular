@@ -1,0 +1,23 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body{
+    color:black ;
+    background-color: powderblue;
+}
+h1{
+    font-style: italic;
+    font-family: cursive;
+    font-weight: 400;
+}
+img{
+width: 150px; 
+border-radius: 0%;
+box-shadow: 0 6px 8px 0 black;
+}
+img:hover{
+    border-radius: 15%;
+}
